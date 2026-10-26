@@ -1,0 +1,40 @@
+{
+  "subpath": "/personal-brand-website",
+  "checks": [
+    {
+      "width": 1440,
+      "reducedMotion": "no-preference",
+      "images": 9,
+      "allImagesLoaded": true,
+      "allImageUrlsUnderSubpath": true,
+      "overflow": false,
+      "scriptErrors": [],
+      "externalRequests": [],
+      "failedResponses": []
+    },
+    {
+      "width": 390,
+      "reducedMotion": "no-preference",
+      "images": 9,
+      "allImagesLoaded": true,
+      "allImageUrlsUnderSubpath": true,
+      "overflow": false,
+      "scriptErrors": [],
+      "externalRequests": [],
+      "failedResponses": []
+    },
+    {
+      "width": 390,
+      "reducedMotion": "reduce",
+      "images": 9,
+      "allImagesLoaded": true,
+      "allImageUrlsUnderSubpath": true,
+      "overflow": false,
+      "scriptErrors": [],
+      "externalRequests": [],
+      "failedResponses": []
+    }
+  ],
+  "fixtureIdentity": "Unfilled placeholder portfolio prototype, not verified personal biography",
+  "status": "PASS"
+}

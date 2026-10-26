@@ -1,0 +1,29 @@
+{
+  "verifiedOn": "2026-10-26",
+  "status": "development placeholder Hero prototype",
+  "lint": "PASS",
+  "typecheck": "PASS",
+  "existingUnitTests": 11,
+  "existingBrowserTests": 14,
+  "rootAndSubpathStaticBuilds": "PASS",
+  "subpathBrowserModes": 3,
+  "allImagesLoaded": true,
+  "npmAuditVulnerabilities": 0,
+  "noticePackages": 26,
+  "distinctNoticeTexts": 108,
+  "noticeUnresolved": 0,
+  "privacy": {
+    "jsTsParsed": 25,
+    "decodedLiterals": 1138,
+    "rawFindings": 0,
+    "structuredFindings": 0,
+    "pillowPngWebpMetadataReads": 37,
+    "sharpAvifMetadataReads": 11,
+    "avifExifXmpIptcPresent": false,
+    "visuallyReviewedUniquePngWebpImages": 37
+  },
+  "reviewedTestExamples": "Reserved name@example.com and spaced test phone are safeHref contract fixtures, not user contacts. Upstream copyright contacts retained.",
+  "linuxFullRuntimeVerified": false,
+  "remotePagesVerified": false,
+  "originalLocalProjectSafeToDelete": false
+}

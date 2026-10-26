@@ -1,0 +1,90 @@
+[
+  {
+    "file": "avatar-identity.avif",
+    "width": 640,
+    "height": 640,
+    "exifBytes": 0,
+    "xmpBytes": 0,
+    "iptcBytes": 0
+  },
+  {
+    "file": "blog-placeholder.avif",
+    "width": 960,
+    "height": 640,
+    "exifBytes": 0,
+    "xmpBytes": 0,
+    "iptcBytes": 0
+  },
+  {
+    "file": "gallery-placeholder.avif",
+    "width": 720,
+    "height": 900,
+    "exifBytes": 0,
+    "xmpBytes": 0,
+    "iptcBytes": 0
+  },
+  {
+    "file": "hero-desktop.avif",
+    "width": 1600,
+    "height": 900,
+    "exifBytes": 0,
+    "xmpBytes": 0,
+    "iptcBytes": 0
+  },
+  {
+    "file": "hero-mobile.avif",
+    "width": 720,
+    "height": 900,
+    "exifBytes": 0,
+    "xmpBytes": 0,
+    "iptcBytes": 0
+  },
+  {
+    "file": "honor-showcase.avif",
+    "width": 960,
+    "height": 640,
+    "exifBytes": 0,
+    "xmpBytes": 0,
+    "iptcBytes": 0
+  },
+  {
+    "file": "project-research.avif",
+    "width": 960,
+    "height": 720,
+    "exifBytes": 0,
+    "xmpBytes": 0,
+    "iptcBytes": 0
+  },
+  {
+    "file": "project-system.avif",
+    "width": 960,
+    "height": 720,
+    "exifBytes": 0,
+    "xmpBytes": 0,
+    "iptcBytes": 0
+  },
+  {
+    "file": "project-visual.avif",
+    "width": 960,
+    "height": 720,
+    "exifBytes": 0,
+    "xmpBytes": 0,
+    "iptcBytes": 0
+  },
+  {
+    "file": "texture-dark-grain.avif",
+    "width": 640,
+    "height": 640,
+    "exifBytes": 0,
+    "xmpBytes": 0,
+    "iptcBytes": 0
+  },
+  {
+    "file": "video-placeholder.avif",
+    "width": 1280,
+    "height": 720,
+    "exifBytes": 0,
+    "xmpBytes": 0,
+    "iptcBytes": 0
+  }
+]
